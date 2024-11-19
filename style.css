@@ -1,0 +1,13 @@
+body{
+    background-image: url('background.png');
+    color: black;
+    text-align: center;
+}
+
+.container{
+    background-color:  rgb(207, 2, 2);
+}
+img{
+    width: 180px;
+    border-radius: 8px;
+}
